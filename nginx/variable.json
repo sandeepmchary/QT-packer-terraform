@@ -1,0 +1,6 @@
+{
+    "aws_region": "us-east-2",
+    "source_ami" : "ami-04846b52daab07843",
+    "aws_username": "ubuntu"
+
+}
