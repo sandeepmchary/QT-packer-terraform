@@ -22,7 +22,7 @@
               "inline": [
                   "sudo apt-get update -y ",
                   "sudo apt-get install nginx -y",
-                  "sudo apt-get nginx restarted"
+                  "sudo systemctl restart nginx"
               ]
 
           }
